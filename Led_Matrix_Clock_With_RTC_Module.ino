@@ -1,3 +1,10 @@
+/*feel free to contact
+ * sreeramaj53@gmail.com
+ * www.youtube.com/ZenoModiff
+ * last updated - time 02:41 PM - date 06 july 2021
+ * Github Link :-- https://github.com/Zenomodiff/Max7219-Led-Matrix-Clock-With-DS3231-RTC-Module
+ */
+
 #include "DS3231.h"
 #include "Adafruit_GFX.h"
 #include "Max72xxPanel.h"
